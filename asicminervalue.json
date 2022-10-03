@@ -1,0 +1,4881 @@
+[
+    {
+        "model": {
+            "name": "Baikal BK-G28 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560307/lz4ar69ytcyuzvpax7yr.png"
+        },
+        "release": "Oct 2018",
+        "hashrate": "28Gh/s",
+        "power": "1300W",
+        "noise": "70db",
+        "algo": [
+            "X11",
+            "Quark",
+            "Qubit",
+            "Myriad-Groestl",
+            "Nist5",
+            "Skein",
+            "X11Gost",
+            "Groestl"
+        ],
+        "profitability": {
+            "display_value": "$1,741.57/day",
+            "income": "$1,892.77",
+            "electricity": "-$151.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Baikal BK-X Giant X10",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560307/lz4ar69ytcyuzvpax7yr.png"
+        },
+        "release": "Nov 2017",
+        "hashrate": "10Gh/s",
+        "power": "630W",
+        "noise": "65db",
+        "algo": [
+            "X11",
+            "Quark",
+            "Qubit",
+            "Myriad-Groestl",
+            "Skein",
+            "Nist5",
+            "X11Gost",
+            "Groestl"
+        ],
+        "profitability": {
+            "display_value": "$605.43/day",
+            "income": "$675.99",
+            "electricity": "-$70.56"
+        }
+    },
+    {
+        "model": {
+            "name": "Dayun Zig M1 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1536790275/dfldw8lndbmhchhabwbq.jpg"
+        },
+        "release": "Nov 2018",
+        "hashrate": "2.611Gh/s",
+        "power": "784W",
+        "noise": "72db",
+        "algo": [
+            "Groestl",
+            "Myriad-Groestl",
+            "Lbry",
+            "Pascal",
+            "Lyra2REv2"
+        ],
+        "profitability": {
+            "display_value": "$109.30/day",
+            "income": "$176.50",
+            "electricity": "-$67.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Baikal Mini Miner undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560307/lz4ar69ytcyuzvpax7yr.png"
+        },
+        "release": "Sep 2016",
+        "hashrate": "150Mh/s",
+        "power": "50W",
+        "noise": "45db",
+        "algo": [
+            "X11",
+            "X13",
+            "X14",
+            "X15",
+            "Quark",
+            "Qubit"
+        ],
+        "profitability": {
+            "display_value": "-$8.39/day",
+            "income": "$0.01",
+            "electricity": "-$8.40"
+        }
+    },
+    {
+        "model": {
+            "name": "Jasminer X4 BRICK SUNLUNE JASMINER X4 ETCHASH BRICK",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1639912804/sbyvquf5irgh7uupfrxd.jpg"
+        },
+        "release": "Dec 2021",
+        "hashrate": "65Mh/s",
+        "power": "30W",
+        "noise": "50db",
+        "algo": [
+            "EtHash"
+        ],
+        "profitability": {
+            "display_value": "-$9.89/day",
+            "income": "$0.19",
+            "electricity": "-$10.08"
+        }
+    },
+    {
+        "model": {
+            "name": "Baikal Miner Cube undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560307/lz4ar69ytcyuzvpax7yr.png"
+        },
+        "release": "Apr 2017",
+        "hashrate": "300Mh/s",
+        "power": "90W",
+        "noise": "45db",
+        "algo": [
+            "X11",
+            "X13",
+            "X14",
+            "X15",
+            "Quark",
+            "Qubit"
+        ],
+        "profitability": {
+            "display_value": "-$16.79/day",
+            "income": "$0.01",
+            "electricity": "-$16.80"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell ST-BOX ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Aug 2021",
+        "hashrate": "13.92kh/s",
+        "power": "61W",
+        "noise": "35db",
+        "algo": [
+            "CryptoNightR"
+        ],
+        "profitability": {
+            "display_value": "-$19.76/day",
+            "income": "$0.74",
+            "electricity": "-$20.50"
+        }
+    },
+    {
+        "model": {
+            "name": "Baikal BK-N Giant N",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560307/lz4ar69ytcyuzvpax7yr.png"
+        },
+        "release": "Mar 2018",
+        "hashrate": "20kh/s",
+        "power": "60W",
+        "noise": "60db",
+        "algo": [
+            "CryptoNight",
+            "CryptoNight-Lite"
+        ],
+        "profitability": {
+            "display_value": "-$20.15/day",
+            "income": "$0.01",
+            "electricity": "-$20.16"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell LB1 Lbry Miner 87 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Apr 2021",
+        "hashrate": "87Gh/s",
+        "power": "80W",
+        "noise": "55db",
+        "algo": [
+            "Lbry"
+        ],
+        "profitability": {
+            "display_value": "-$26.49/day",
+            "income": "$0.39",
+            "electricity": "-$26.88"
+        }
+    },
+    {
+        "model": {
+            "name": "Baikal Quadruple Mini Miner undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560307/lz4ar69ytcyuzvpax7yr.png"
+        },
+        "release": "Aug 2016",
+        "hashrate": "600Mh/s",
+        "power": "192W",
+        "noise": "50db",
+        "algo": [
+            "X11",
+            "X13",
+            "X14",
+            "X15",
+            "Quark",
+            "Qubit"
+        ],
+        "profitability": {
+            "display_value": "-$33.58/day",
+            "income": "$0.02",
+            "electricity": "-$33.60"
+        }
+    },
+    {
+        "model": {
+            "name": "iPollo V1 Mini Classic V1 Mini Classic Wifi ETC ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1630009918/q5oik7gskqxrop4ym6w4.png"
+        },
+        "release": "Jun 2022",
+        "hashrate": "130Mh/s",
+        "power": "104W",
+        "noise": "55db",
+        "algo": [
+            "EtHash"
+        ],
+        "profitability": {
+            "display_value": "-$34.56/day",
+            "income": "$0.38",
+            "electricity": "-$34.94"
+        }
+    },
+    {
+        "model": {
+            "name": "iPollo V1 Mini SE ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1630009918/q5oik7gskqxrop4ym6w4.png"
+        },
+        "release": "Aug 2022",
+        "hashrate": "200Mh/s",
+        "power": "116W",
+        "noise": "45db",
+        "algo": [
+            "EtHash"
+        ],
+        "profitability": {
+            "display_value": "-$38.39/day",
+            "income": "$0.59",
+            "electricity": "-$38.98"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell HS1-PLUS HS1+",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Oct 2020",
+        "hashrate": "105Gh/s",
+        "power": "115W",
+        "noise": "34db",
+        "algo": [
+            "Handshake"
+        ],
+        "profitability": {
+            "display_value": "-$38.48/day",
+            "income": "$0.16",
+            "electricity": "-$38.64"
+        }
+    },
+    {
+        "model": {
+            "name": "iPollo G1 Mini ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1630009918/q5oik7gskqxrop4ym6w4.png"
+        },
+        "release": "Jan 2021",
+        "hashrate": "1.2GPS",
+        "power": "120W",
+        "noise": "40db",
+        "algo": [
+            "Cuckatoo32"
+        ],
+        "profitability": {
+            "display_value": "-$39.89/day",
+            "income": "$0.43",
+            "electricity": "-$40.32"
+        }
+    },
+    {
+        "model": {
+            "name": "Baikal BK-N+ Giant N+",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560307/lz4ar69ytcyuzvpax7yr.png"
+        },
+        "release": "Mar 2018",
+        "hashrate": "40kh/s",
+        "power": "120W",
+        "noise": "60db",
+        "algo": [
+            "CryptoNight",
+            "CryptoNight-Lite"
+        ],
+        "profitability": {
+            "display_value": "-$40.29/day",
+            "income": "$0.03",
+            "electricity": "-$40.32"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell HS-BOX ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "May 2021",
+        "hashrate": "235Gh/s",
+        "power": "230W",
+        "noise": "35db",
+        "algo": [
+            "Handshake",
+            "Blake2B-Sia"
+        ],
+        "profitability": {
+            "display_value": "-$43.29/day",
+            "income": "$0.39",
+            "electricity": "-$43.68"
+        }
+    },
+    {
+        "model": {
+            "name": "Baikal Giant A900 undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560307/lz4ar69ytcyuzvpax7yr.png"
+        },
+        "release": "Oct 2016",
+        "hashrate": "900Mh/s",
+        "power": "270W",
+        "noise": "65db",
+        "algo": [
+            "X11",
+            "X13",
+            "X14",
+            "X15",
+            "Quark",
+            "Qubit"
+        ],
+        "profitability": {
+            "display_value": "-$44.32/day",
+            "income": "$0.03",
+            "electricity": "-$44.35"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell LB-BOX LB-BOX",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Aug 2021",
+        "hashrate": "175Gh/s",
+        "power": "162W",
+        "noise": "35db",
+        "algo": [
+            "Lbry"
+        ],
+        "profitability": {
+            "display_value": "-$53.65/day",
+            "income": "$0.78",
+            "electricity": "-$54.43"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon A8C CryptoMaster A8 C",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "May 2018",
+        "hashrate": "80kh/s",
+        "power": "175W",
+        "noise": "70db",
+        "algo": [
+            "CryptoNight"
+        ],
+        "profitability": {
+            "display_value": "-$58.74/day",
+            "income": "$0.06",
+            "electricity": "-$58.80"
+        }
+    },
+    {
+        "model": {
+            "name": "FFMiner Decred D18 Flying Fish D18",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1529675775/wtacvcpnes8rtibtpovi.png"
+        },
+        "release": "Jun 2018",
+        "hashrate": "340Gh/s",
+        "power": "180W",
+        "noise": "55db",
+        "algo": [
+            "Blake256R14"
+        ],
+        "profitability": {
+            "display_value": "-$60.46/day",
+            "income": "$0.02",
+            "electricity": "-$60.48"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell SC-BOX ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Apr 2022",
+        "hashrate": "900Gh/s",
+        "power": "W",
+        "noise": "35db",
+        "algo": [
+            "Blake2B-Sia"
+        ],
+        "profitability": {
+            "display_value": "-$66.45/day",
+            "income": "$0.75",
+            "electricity": "-$67.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell KD-BOX KDA-BOX",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "May 2021",
+        "hashrate": "1.6Th/s",
+        "power": "205W",
+        "noise": "35db",
+        "algo": [
+            "Kadena"
+        ],
+        "profitability": {
+            "display_value": "-$68.17/day",
+            "income": "$0.71",
+            "electricity": "-$68.88"
+        }
+    },
+    {
+        "model": {
+            "name": "Baikal BK-B Giant B",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560307/lz4ar69ytcyuzvpax7yr.png"
+        },
+        "release": "Jan 2018",
+        "hashrate": "160Gh/s",
+        "power": "410W",
+        "noise": "65db",
+        "algo": [
+            "Blake256R14",
+            "Blake256R8",
+            "Blake2B",
+            "Lbry",
+            "Pascal"
+        ],
+        "profitability": {
+            "display_value": "-$70.24/day",
+            "income": "$0.32",
+            "electricity": "-$70.56"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell CK-BOX CK-BOX 1050GH/s",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Jul 2021",
+        "hashrate": "1.05Th/s",
+        "power": "215W",
+        "noise": "35db",
+        "algo": [
+            "Eaglesong"
+        ],
+        "profitability": {
+            "display_value": "-$71.69/day",
+            "income": "$0.55",
+            "electricity": "-$72.24"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell Mini-DOGE Pro ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Apr 2022",
+        "hashrate": "205Mh/s",
+        "power": "220W",
+        "noise": "35db",
+        "algo": [
+            "Scrypt"
+        ],
+        "profitability": {
+            "display_value": "-$73.43/day",
+            "income": "$0.49",
+            "electricity": "-$73.92"
+        }
+    },
+    {
+        "model": {
+            "name": "Baikal BK-N70 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560307/lz4ar69ytcyuzvpax7yr.png"
+        },
+        "release": "May 2018",
+        "hashrate": "70kh/s",
+        "power": "240W",
+        "noise": "62db",
+        "algo": [
+            "CryptoNight",
+            "CryptoNight-Lite"
+        ],
+        "profitability": {
+            "display_value": "-$73.87/day",
+            "income": "$0.05",
+            "electricity": "-$73.92"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell KD-BOX Pro ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Mar 2022",
+        "hashrate": "2.6Th/s",
+        "power": "230W",
+        "noise": "35db",
+        "algo": [
+            "Kadena"
+        ],
+        "profitability": {
+            "display_value": "-$76.12/day",
+            "income": "$1.16",
+            "electricity": "-$77.28"
+        }
+    },
+    {
+        "model": {
+            "name": "iPollo V1 Mini SE Plus ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1630009918/q5oik7gskqxrop4ym6w4.png"
+        },
+        "release": "Aug 2022",
+        "hashrate": "400Mh/s",
+        "power": "232W",
+        "noise": "45db",
+        "algo": [
+            "EtHash"
+        ],
+        "profitability": {
+            "display_value": "-$76.77/day",
+            "income": "$1.18",
+            "electricity": "-$77.95"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell Mini-DOGE ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Jul 2021",
+        "hashrate": "185Mh/s",
+        "power": "233W",
+        "noise": "35db",
+        "algo": [
+            "Scrypt"
+        ],
+        "profitability": {
+            "display_value": "-$77.85/day",
+            "income": "$0.44",
+            "electricity": "-$78.29"
+        }
+    },
+    {
+        "model": {
+            "name": "Jasminer X4-1U SUNLUNE JASMINER X4-1U ETCHASH SERVER",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1639912804/sbyvquf5irgh7uupfrxd.jpg"
+        },
+        "release": "Nov 2021",
+        "hashrate": "520Mh/s",
+        "power": "240W",
+        "noise": "65db",
+        "algo": [
+            "EtHash"
+        ],
+        "profitability": {
+            "display_value": "-$79.11/day",
+            "income": "$1.53",
+            "electricity": "-$80.64"
+        }
+    },
+    {
+        "model": {
+            "name": "Jasminer X4-C 1U SUNLUNE JASMINER X4-C 1U ETCHASH SERVER",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1639912804/sbyvquf5irgh7uupfrxd.jpg"
+        },
+        "release": "Nov 2021",
+        "hashrate": "450Mh/s",
+        "power": "240W",
+        "noise": "65db",
+        "algo": [
+            "EtHash"
+        ],
+        "profitability": {
+            "display_value": "-$79.31/day",
+            "income": "$1.33",
+            "electricity": "-$80.64"
+        }
+    },
+    {
+        "model": {
+            "name": "iPollo V1 Mini ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1630009918/q5oik7gskqxrop4ym6w4.png"
+        },
+        "release": "Jun 2022",
+        "hashrate": "300Mh/s",
+        "power": "240W",
+        "noise": "55db",
+        "algo": [
+            "EtHash"
+        ],
+        "profitability": {
+            "display_value": "-$79.76/day",
+            "income": "$0.88",
+            "electricity": "-$80.64"
+        }
+    },
+    {
+        "model": {
+            "name": "Baikal Giant+ A2000 undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560307/lz4ar69ytcyuzvpax7yr.png"
+        },
+        "release": "Aug 2017",
+        "hashrate": "2Gh/s",
+        "power": "450W",
+        "noise": "65db",
+        "algo": [
+            "X11",
+            "X13",
+            "X14",
+            "X15",
+            "Quark",
+            "Qubit"
+        ],
+        "profitability": {
+            "display_value": "-$83.25/day",
+            "income": "$0.07",
+            "electricity": "-$83.33"
+        }
+    },
+    {
+        "model": {
+            "name": "iPollo V1 Mini Classic Plus V1 Mini Classic PLUS Wifi ETC ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1630009918/q5oik7gskqxrop4ym6w4.png"
+        },
+        "release": "Jun 2022",
+        "hashrate": "280Mh/s",
+        "power": "270W",
+        "noise": "55db",
+        "algo": [
+            "EtHash"
+        ],
+        "profitability": {
+            "display_value": "-$89.90/day",
+            "income": "$0.82",
+            "electricity": "-$90.72"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer Z9 Mini ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Jun 2018",
+        "hashrate": "10ksol/s",
+        "power": "300W",
+        "noise": "65db",
+        "algo": [
+            "Equihash"
+        ],
+        "profitability": {
+            "display_value": "-$100.63/day",
+            "income": "$0.17",
+            "electricity": "-$100.80"
+        }
+    },
+    {
+        "model": {
+            "name": "PinIdea DR-3 undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514810664/dtm9rzjtdgvn2alemb9o.png"
+        },
+        "release": "Apr 2017",
+        "hashrate": "600Mh/s",
+        "power": "345W",
+        "noise": "50db",
+        "algo": [
+            "X11"
+        ],
+        "profitability": {
+            "display_value": "-$115.91/day",
+            "income": "$0.01",
+            "electricity": "-$115.92"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon A8 CryptoMaster ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Apr 2018",
+        "hashrate": "160kh/s",
+        "power": "350W",
+        "noise": "70db",
+        "algo": [
+            "CryptoNight"
+        ],
+        "profitability": {
+            "display_value": "-$117.49/day",
+            "income": "$0.11",
+            "electricity": "-$117.60"
+        }
+    },
+    {
+        "model": {
+            "name": "PinIdea RR-210 150",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514810664/dtm9rzjtdgvn2alemb9o.png"
+        },
+        "release": "Apr 2018",
+        "hashrate": "30kh/s",
+        "power": "350W",
+        "noise": "55db",
+        "algo": [
+            "CryptoNight",
+            "CryptoNight-Lite"
+        ],
+        "profitability": {
+            "display_value": "-$117.58/day",
+            "income": "$0.02",
+            "electricity": "-$117.60"
+        }
+    },
+    {
+        "model": {
+            "name": "PinIdea RR-200 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514810664/dtm9rzjtdgvn2alemb9o.png"
+        },
+        "release": "Apr 2018",
+        "hashrate": "27kh/s",
+        "power": "350W",
+        "noise": "55db",
+        "algo": [
+            "CryptoNight",
+            "CryptoNight-Lite"
+        ],
+        "profitability": {
+            "display_value": "-$117.58/day",
+            "income": "$0.02",
+            "electricity": "-$117.60"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer B3 (780Hz) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "May 2018",
+        "hashrate": "780h/s",
+        "power": "360W",
+        "noise": "72db",
+        "algo": [
+            "Tensority"
+        ],
+        "profitability": {
+            "display_value": "Unknown",
+            "income": null,
+            "electricity": null
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S3 undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Jul 2014",
+        "hashrate": "478Gh/s",
+        "power": "366W",
+        "noise": "60db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$122.94/day",
+            "income": "$0.04",
+            "electricity": "-$122.98"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer B3 (1Kh) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "May 2018",
+        "hashrate": "1kh/s",
+        "power": "380W",
+        "noise": "72db",
+        "algo": [
+            "Tensority"
+        ],
+        "profitability": {
+            "display_value": "Unknown",
+            "income": null,
+            "electricity": null
+        }
+    },
+    {
+        "model": {
+            "name": "Obelisk SC1 Slim SC1 slim, 1-board (Gen 2)",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1516207442/obnwkanrp7k7tnkpqura.png"
+        },
+        "release": "Jan 2019",
+        "hashrate": "550Gh/s",
+        "power": "450W",
+        "noise": "75db",
+        "algo": [
+            "Blake2B",
+            "Blake2B-Sia"
+        ],
+        "profitability": {
+            "display_value": "-$150.74/day",
+            "income": "$0.46",
+            "electricity": "-$151.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer X3 (220Kh) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "May 2018",
+        "hashrate": "220kh/s",
+        "power": "465W",
+        "noise": "76db",
+        "algo": [
+            "CryptoNight"
+        ],
+        "profitability": {
+            "display_value": "-$156.09/day",
+            "income": "$0.15",
+            "electricity": "-$156.24"
+        }
+    },
+    {
+        "model": {
+            "name": "Jasminer X4-Q ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1639912804/sbyvquf5irgh7uupfrxd.jpg"
+        },
+        "release": "Jun 2022",
+        "hashrate": "1.04Gh/s",
+        "power": "480W",
+        "noise": "40db",
+        "algo": [
+            "EtHash"
+        ],
+        "profitability": {
+            "display_value": "-$158.22/day",
+            "income": "$3.06",
+            "electricity": "-$161.28"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon A8+ CryptoMaster ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Apr 2018",
+        "hashrate": "240kh/s",
+        "power": "480W",
+        "noise": "70db",
+        "algo": [
+            "CryptoNight"
+        ],
+        "profitability": {
+            "display_value": "-$161.11/day",
+            "income": "$0.17",
+            "electricity": "-$161.28"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell HS3-SE ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Nov 2020",
+        "hashrate": "930Gh/s",
+        "power": "930W",
+        "noise": "55db",
+        "algo": [
+            "Handshake",
+            "Blake2B-Sia"
+        ],
+        "profitability": {
+            "display_value": "-$166.45/day",
+            "income": "$1.55",
+            "electricity": "-$168.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Obelisk SC1 SC1, 2-board (Gen 1)",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1516207442/obnwkanrp7k7tnkpqura.png"
+        },
+        "release": "Jun 2018",
+        "hashrate": "550Gh/s",
+        "power": "500W",
+        "noise": "65db",
+        "algo": [
+            "Blake2B",
+            "Blake2B-Sia"
+        ],
+        "profitability": {
+            "display_value": "-$167.54/day",
+            "income": "$0.46",
+            "electricity": "-$168.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Obelisk DCR1 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1516207442/obnwkanrp7k7tnkpqura.png"
+        },
+        "release": "Jun 2018",
+        "hashrate": "1.2Th/s",
+        "power": "500W",
+        "noise": "65db",
+        "algo": [
+            "Blake256R14"
+        ],
+        "profitability": {
+            "display_value": "-$167.92/day",
+            "income": "$0.08",
+            "electricity": "-$168.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer B7 (96Kh) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Mar 2019",
+        "hashrate": "96kh/s",
+        "power": "528W",
+        "noise": "65db",
+        "algo": [
+            "Tensority"
+        ],
+        "profitability": {
+            "display_value": "Unknown",
+            "income": null,
+            "electricity": null
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S5 undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Dec 2014",
+        "hashrate": "1.155Th/s",
+        "power": "590W",
+        "noise": "65db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$198.15/day",
+            "income": "$0.09",
+            "electricity": "-$198.24"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon A9 ZMaster ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Jun 2018",
+        "hashrate": "50ksol/s",
+        "power": "620W",
+        "noise": "70db",
+        "algo": [
+            "Equihash"
+        ],
+        "profitability": {
+            "display_value": "-$207.46/day",
+            "income": "$0.86",
+            "electricity": "-$208.32"
+        }
+    },
+    {
+        "model": {
+            "name": "Baikal BK-N240 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560307/lz4ar69ytcyuzvpax7yr.png"
+        },
+        "release": "May 2018",
+        "hashrate": "240kh/s",
+        "power": "650W",
+        "noise": "62db",
+        "algo": [
+            "CryptoNight",
+            "CryptoNight-Lite"
+        ],
+        "profitability": {
+            "display_value": "Unknown",
+            "income": null,
+            "electricity": null
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell X5 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Jul 2021",
+        "hashrate": "850Mh/s",
+        "power": "1450W",
+        "noise": "70db",
+        "algo": [
+            "Scrypt",
+            "Scrypt",
+            "Scrypt"
+        ],
+        "profitability": {
+            "display_value": "-$220.33/day",
+            "income": "$1.43",
+            "electricity": "-$221.76"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell HS Lite HS LITE",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Mar 2022",
+        "hashrate": "1.36Th/s",
+        "power": "1250W",
+        "noise": "50db",
+        "algo": [
+            "Handshake",
+            "Blake2B-Sia"
+        ],
+        "profitability": {
+            "display_value": "-$232.79/day",
+            "income": "$2.41",
+            "electricity": "-$235.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S7-LN ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Jun 2016",
+        "hashrate": "2.7Th/s",
+        "power": "697W",
+        "noise": "48db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$233.98/day",
+            "income": "$0.21",
+            "electricity": "-$234.19"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon A4+ LTCMaster undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Nov 2017",
+        "hashrate": "620Mh/s",
+        "power": "750W",
+        "noise": "80db",
+        "algo": [
+            "Scrypt"
+        ],
+        "profitability": {
+            "display_value": "-$250.52/day",
+            "income": "$1.48",
+            "electricity": "-$252.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon A10 ETHMaster (500Mh) A10 ETHKing",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Sep 2019",
+        "hashrate": "500Mh/s",
+        "power": "750W",
+        "noise": "75db",
+        "algo": [
+            "EtHash"
+        ],
+        "profitability": {
+            "display_value": "-$250.53/day",
+            "income": "$1.47",
+            "electricity": "-$252.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon A5 DashMaster undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Oct 2017",
+        "hashrate": "32.5Gh/s",
+        "power": "750W",
+        "noise": "75db",
+        "algo": [
+            "X11"
+        ],
+        "profitability": {
+            "display_value": "-$251.63/day",
+            "income": "$0.37",
+            "electricity": "-$252.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer E3 (190Mh) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Jul 2018",
+        "hashrate": "190Mh/s",
+        "power": "760W",
+        "noise": "76db",
+        "algo": [
+            "EtHash"
+        ],
+        "profitability": {
+            "display_value": "-$254.80/day",
+            "income": "$0.56",
+            "electricity": "-$255.36"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer L3+ (504Mh) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Jun 2017",
+        "hashrate": "504Mh/s",
+        "power": "800W",
+        "noise": "70db",
+        "algo": [
+            "Scrypt"
+        ],
+        "profitability": {
+            "display_value": "-$267.60/day",
+            "income": "$1.20",
+            "electricity": "-$268.80"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer E3 (180Mh) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Jul 2018",
+        "hashrate": "180Mh/s",
+        "power": "800W",
+        "noise": "75db",
+        "algo": [
+            "EtHash"
+        ],
+        "profitability": {
+            "display_value": "-$268.27/day",
+            "income": "$0.53",
+            "electricity": "-$268.80"
+        }
+    },
+    {
+        "model": {
+            "name": "iBeLink DM22G undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515841553/hwvles4tlxwrly0h8cq7.png"
+        },
+        "release": "Sep 2017",
+        "hashrate": "22Gh/s",
+        "power": "810W",
+        "noise": "81db",
+        "algo": [
+            "X11"
+        ],
+        "profitability": {
+            "display_value": "-$271.91/day",
+            "income": "$0.25",
+            "electricity": "-$272.16"
+        }
+    },
+    {
+        "model": {
+            "name": "iBeLink DM11G undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515841553/hwvles4tlxwrly0h8cq7.png"
+        },
+        "release": "Jul 2017",
+        "hashrate": "10.8Gh/s",
+        "power": "810W",
+        "noise": "81db",
+        "algo": [
+            "X11"
+        ],
+        "profitability": {
+            "display_value": "-$272.04/day",
+            "income": "$0.12",
+            "electricity": "-$272.16"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell KD2 KD2 Kadena miner",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Mar 2021",
+        "hashrate": "6Th/s",
+        "power": "830W",
+        "noise": "55db",
+        "algo": [
+            "Kadena"
+        ],
+        "profitability": {
+            "display_value": "-$276.21/day",
+            "income": "$2.67",
+            "electricity": "-$278.88"
+        }
+    },
+    {
+        "model": {
+            "name": "iBeLink BM-K1 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515841553/hwvles4tlxwrly0h8cq7.png"
+        },
+        "release": "Nov 2020",
+        "hashrate": "5.3Th/s",
+        "power": "835W",
+        "noise": "74db",
+        "algo": [
+            "Kadena"
+        ],
+        "profitability": {
+            "display_value": "-$278.20/day",
+            "income": "$2.36",
+            "electricity": "-$280.56"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer R4 undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Feb 2017",
+        "hashrate": "8.7Th/s",
+        "power": "845W",
+        "noise": "52db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$283.23/day",
+            "income": "$0.69",
+            "electricity": "-$283.92"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S15 (28Th) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Dec 2018",
+        "hashrate": "28Th/s",
+        "power": "1596W",
+        "noise": "76db",
+        "algo": [
+            "SHA-256",
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$284.25/day",
+            "income": "$1.35",
+            "electricity": "-$285.60"
+        }
+    },
+    {
+        "model": {
+            "name": "Obelisk SC1 Dual SC1 slim, 2-board (Gen 2)",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1516207442/obnwkanrp7k7tnkpqura.png"
+        },
+        "release": "Mar 2019",
+        "hashrate": "1.1Th/s",
+        "power": "900W",
+        "noise": "75db",
+        "algo": [
+            "Blake2B",
+            "Blake2B-Sia"
+        ],
+        "profitability": {
+            "display_value": "-$301.49/day",
+            "income": "$0.91",
+            "electricity": "-$302.40"
+        }
+    },
+    {
+        "model": {
+            "name": "PinIdea DR-100 Pro undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514810664/dtm9rzjtdgvn2alemb9o.png"
+        },
+        "release": "Nov 2017",
+        "hashrate": "21Gh/s",
+        "power": "900W",
+        "noise": "55db",
+        "algo": [
+            "X11"
+        ],
+        "profitability": {
+            "display_value": "-$302.16/day",
+            "income": "$0.24",
+            "electricity": "-$302.40"
+        }
+    },
+    {
+        "model": {
+            "name": "PinIdea DR-100 undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514810664/dtm9rzjtdgvn2alemb9o.png"
+        },
+        "release": "Aug 2017",
+        "hashrate": "19Gh/s",
+        "power": "900W",
+        "noise": "55db",
+        "algo": [
+            "X11"
+        ],
+        "profitability": {
+            "display_value": "-$302.18/day",
+            "income": "$0.22",
+            "electricity": "-$302.40"
+        }
+    },
+    {
+        "model": {
+            "name": "Halong Mining DragonMint B29 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514768333/pz1lf0ytguwgjwm5pkxg.jpg"
+        },
+        "release": "Apr 2018",
+        "hashrate": "2.1Th/s",
+        "power": "900W",
+        "noise": "70db",
+        "algo": [
+            "Blake256R14"
+        ],
+        "profitability": {
+            "display_value": "-$302.26/day",
+            "income": "$0.14",
+            "electricity": "-$302.40"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer L3+ (600Mh) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Oct 2017",
+        "hashrate": "600Mh/s",
+        "power": "850W",
+        "noise": "75db",
+        "algo": [
+            "Scrypt"
+        ],
+        "profitability": {
+            "display_value": "-$304.33/day",
+            "income": "$1.43",
+            "electricity": "-$305.76"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer L3++ (580Mh) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "May 2018",
+        "hashrate": "580Mh/s",
+        "power": "942W",
+        "noise": "76db",
+        "algo": [
+            "Scrypt"
+        ],
+        "profitability": {
+            "display_value": "-$315.13/day",
+            "income": "$1.38",
+            "electricity": "-$316.51"
+        }
+    },
+    {
+        "model": {
+            "name": "BW L21 undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515324609/jxde5p6etlwgyk6hqqzj.png"
+        },
+        "release": "Jan 2018",
+        "hashrate": "550Mh/s",
+        "power": "950W",
+        "noise": "75db",
+        "algo": [
+            "Scrypt"
+        ],
+        "profitability": {
+            "display_value": "-$317.89/day",
+            "income": "$1.31",
+            "electricity": "-$319.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon A10 Pro ETH (500Mh) ETH Miner King A10 Pro",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "May 2020",
+        "hashrate": "500Mh/s",
+        "power": "960W",
+        "noise": "75db",
+        "algo": [
+            "EtHash"
+        ],
+        "profitability": {
+            "display_value": "-$321.09/day",
+            "income": "$1.47",
+            "electricity": "-$322.56"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer Z9 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Sep 2018",
+        "hashrate": "42ksol/s",
+        "power": "970W",
+        "noise": "75db",
+        "algo": [
+            "Equihash"
+        ],
+        "profitability": {
+            "display_value": "-$325.20/day",
+            "income": "$0.72",
+            "electricity": "-$325.92"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell HS3 HS3 Handshake miner 2000Gh/s",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Oct 2020",
+        "hashrate": "2Th/s",
+        "power": "2000W",
+        "noise": "75db",
+        "algo": [
+            "Handshake",
+            "Blake2B-Sia"
+        ],
+        "profitability": {
+            "display_value": "-$332.67/day",
+            "income": "$3.33",
+            "electricity": "-$336.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Pantech SX6 undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1518038432/g8hqjw68gknnhzrkpq7z.png"
+        },
+        "release": "Sep 2017",
+        "hashrate": "8.5Th/s",
+        "power": "1000W",
+        "noise": "72db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$335.33/day",
+            "income": "$0.67",
+            "electricity": "-$336.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Baikal BK-D ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560307/lz4ar69ytcyuzvpax7yr.png"
+        },
+        "release": "Jun 2018",
+        "hashrate": "320Gh/s",
+        "power": "1100W",
+        "noise": "65db",
+        "algo": [
+            "Blake256R14",
+            "Blake256R8"
+        ],
+        "profitability": {
+            "display_value": "-$335.62/day",
+            "income": "$0.38",
+            "electricity": "-$336.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon D9 DecredMaster ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Apr 2018",
+        "hashrate": "2.4Th/s",
+        "power": "1000W",
+        "noise": "70db",
+        "algo": [
+            "Blake256R14"
+        ],
+        "profitability": {
+            "display_value": "-$335.84/day",
+            "income": "$0.16",
+            "electricity": "-$336.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer V9 (4Th) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Mar 2018",
+        "hashrate": "4Th/s",
+        "power": "1027W",
+        "noise": "76db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$344.75/day",
+            "income": "$0.32",
+            "electricity": "-$345.07"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer L3++ (596Mh) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "May 2018",
+        "hashrate": "596Mh/s",
+        "power": "1050W",
+        "noise": "70db",
+        "algo": [
+            "Scrypt"
+        ],
+        "profitability": {
+            "display_value": "-$351.38/day",
+            "income": "$1.42",
+            "electricity": "-$352.80"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon A4 Dominator undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Jul 2017",
+        "hashrate": "280Mh/s",
+        "power": "1050W",
+        "noise": "75db",
+        "algo": [
+            "Scrypt"
+        ],
+        "profitability": {
+            "display_value": "-$352.13/day",
+            "income": "$0.67",
+            "electricity": "-$352.80"
+        }
+    },
+    {
+        "model": {
+            "name": "FusionSilicon X6 Miner ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1547993371/awqdarxhsaafw5iqbl10.png"
+        },
+        "release": "Aug 2018",
+        "hashrate": "860Mh/s",
+        "power": "1079W",
+        "noise": "72db",
+        "algo": [
+            "Scrypt"
+        ],
+        "profitability": {
+            "display_value": "-$360.50/day",
+            "income": "$2.05",
+            "electricity": "-$362.54"
+        }
+    },
+    {
+        "model": {
+            "name": "Ebang Ebit E9 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515362766/auahlxiostvdqj4vwfpq.jpg"
+        },
+        "release": "Sep 2018",
+        "hashrate": "6.3Th/s",
+        "power": "1077W",
+        "noise": "72db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$361.37/day",
+            "income": "$0.50",
+            "electricity": "-$361.87"
+        }
+    },
+    {
+        "model": {
+            "name": "FFMiner DS19 Flying Fish DS19",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1529675775/wtacvcpnes8rtibtpovi.png"
+        },
+        "release": "Aug 2018",
+        "hashrate": "3.1Th/s",
+        "power": "980W",
+        "noise": "67db",
+        "algo": [
+            "Blake256R14"
+        ],
+        "profitability": {
+            "display_value": "-$366.01/day",
+            "income": "$0.23",
+            "electricity": "-$366.24"
+        }
+    },
+    {
+        "model": {
+            "name": "FusionSilicon X1 Miner ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1547993371/awqdarxhsaafw5iqbl10.png"
+        },
+        "release": "Jan 2019",
+        "hashrate": "12.96Gh/s",
+        "power": "1110W",
+        "noise": "72db",
+        "algo": [
+            "Lyra2REv2"
+        ],
+        "profitability": {
+            "display_value": "-$372.89/day",
+            "income": "$0.07",
+            "electricity": "-$372.96"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S9 (11.5Th) undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Jun 2016",
+        "hashrate": "11.5Th/s",
+        "power": "1127W",
+        "noise": "85db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$377.76/day",
+            "income": "$0.91",
+            "electricity": "-$378.67"
+        }
+    },
+    {
+        "model": {
+            "name": "Canaan AvalonMiner 741 Avalon A7",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514766048/ovb1raclneuhybl7bi4m.png"
+        },
+        "release": "Apr 2017",
+        "hashrate": "7.3Th/s",
+        "power": "1150W",
+        "noise": "65db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$385.82/day",
+            "income": "$0.58",
+            "electricity": "-$386.40"
+        }
+    },
+    {
+        "model": {
+            "name": "Jasminer X4 SUNLUNE JASMINER X4 ETCHASH SERVER",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1639912804/sbyvquf5irgh7uupfrxd.jpg"
+        },
+        "release": "Nov 2021",
+        "hashrate": "2.5Gh/s",
+        "power": "1200W",
+        "noise": "75db",
+        "algo": [
+            "EtHash"
+        ],
+        "profitability": {
+            "display_value": "-$395.84/day",
+            "income": "$7.36",
+            "electricity": "-$403.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell CK Lite CK LITE",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Mar 2022",
+        "hashrate": "6.3Th/s",
+        "power": "1200W",
+        "noise": "55db",
+        "algo": [
+            "Eaglesong"
+        ],
+        "profitability": {
+            "display_value": "-$399.87/day",
+            "income": "$3.33",
+            "electricity": "-$403.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer T15 (23Th) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Dec 2018",
+        "hashrate": "23Th/s",
+        "power": "1541W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256",
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$401.61/day",
+            "income": "$1.59",
+            "electricity": "-$403.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Canaan AvalonMiner 821 Avalon A8",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514766048/ovb1raclneuhybl7bi4m.png"
+        },
+        "release": "Feb 2018",
+        "hashrate": "11.5Th/s",
+        "power": "1200W",
+        "noise": "65db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$402.29/day",
+            "income": "$0.91",
+            "electricity": "-$403.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer G2 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Dec 2017",
+        "hashrate": "220Mh/s",
+        "power": "1200W",
+        "noise": "72db",
+        "algo": [
+            "EtHash"
+        ],
+        "profitability": {
+            "display_value": "-$402.55/day",
+            "income": "$0.65",
+            "electricity": "-$403.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer D3 (15Gh) undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Sep 2017",
+        "hashrate": "15Gh/s",
+        "power": "1200W",
+        "noise": "75db",
+        "algo": [
+            "X11"
+        ],
+        "profitability": {
+            "display_value": "-$403.03/day",
+            "income": "$0.17",
+            "electricity": "-$403.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Dayun Zig Z1+ Zig Z1 Plus",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1536790275/dfldw8lndbmhchhabwbq.jpg"
+        },
+        "release": "Oct 2018",
+        "hashrate": "7.25Gh/s",
+        "power": "1200W",
+        "noise": "70db",
+        "algo": [
+            "Lyra2REv2"
+        ],
+        "profitability": {
+            "display_value": "-$403.16/day",
+            "income": "$0.04",
+            "electricity": "-$403.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Dayun Zig Z1 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1536790275/dfldw8lndbmhchhabwbq.jpg"
+        },
+        "release": "Sep 2018",
+        "hashrate": "6.8Gh/s",
+        "power": "1200W",
+        "noise": "70db",
+        "algo": [
+            "Lyra2REv2"
+        ],
+        "profitability": {
+            "display_value": "-$403.16/day",
+            "income": "$0.04",
+            "electricity": "-$403.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S9 (12.5Th) undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Feb 2017",
+        "hashrate": "12.5Th/s",
+        "power": "1225W",
+        "noise": "85db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$410.61/day",
+            "income": "$0.99",
+            "electricity": "-$411.60"
+        }
+    },
+    {
+        "model": {
+            "name": "iPollo V1 Classic iPollo V I Classic ETC",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1630009918/q5oik7gskqxrop4ym6w4.png"
+        },
+        "release": "Jun 2022",
+        "hashrate": "1.55Gh/s",
+        "power": "1240W",
+        "noise": "70db",
+        "algo": [
+            "EtHash"
+        ],
+        "profitability": {
+            "display_value": "-$412.08/day",
+            "income": "$4.56",
+            "electricity": "-$416.64"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon D9+ DecredMaster ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Aug 2018",
+        "hashrate": "2.8Th/s",
+        "power": "1230W",
+        "noise": "70db",
+        "algo": [
+            "Blake256R14"
+        ],
+        "profitability": {
+            "display_value": "-$413.10/day",
+            "income": "$0.18",
+            "electricity": "-$413.28"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell X5S ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Oct 2021",
+        "hashrate": "1.36Gh/s",
+        "power": "1850W",
+        "noise": "70db",
+        "algo": [
+            "Scrypt",
+            "Scrypt"
+        ],
+        "profitability": {
+            "display_value": "-$420.72/day",
+            "income": "$2.64",
+            "electricity": "-$423.36"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer A3 (815Gh) undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Jan 2018",
+        "hashrate": "815Gh/s",
+        "power": "1275W",
+        "noise": "76db",
+        "algo": [
+            "Blake2B"
+        ],
+        "profitability": {
+            "display_value": "-$428.38/day",
+            "income": "$0.02",
+            "electricity": "-$428.40"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S9 SE (16Th) S9 Special Edition",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Jul 2019",
+        "hashrate": "16Th/s",
+        "power": "1280W",
+        "noise": "76db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$428.81/day",
+            "income": "$1.27",
+            "electricity": "-$430.08"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer D3 (17.5Gh) undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Oct 2017",
+        "hashrate": "17.5Gh/s",
+        "power": "1280W",
+        "noise": "75db",
+        "algo": [
+            "X11"
+        ],
+        "profitability": {
+            "display_value": "-$429.88/day",
+            "income": "$0.20",
+            "electricity": "-$430.08"
+        }
+    },
+    {
+        "model": {
+            "name": "Canaan AvalonMiner 841 Avalon A8",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514766048/ovb1raclneuhybl7bi4m.png"
+        },
+        "release": "Apr 2018",
+        "hashrate": "13.6Th/s",
+        "power": "1290W",
+        "noise": "65db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$432.36/day",
+            "income": "$1.08",
+            "electricity": "-$433.44"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S9i (13Th) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "May 2018",
+        "hashrate": "13Th/s",
+        "power": "1280W",
+        "noise": "76db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$432.41/day",
+            "income": "$1.03",
+            "electricity": "-$433.44"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S7 undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Sep 2015",
+        "hashrate": "4.73Th/s",
+        "power": "1293W",
+        "noise": "62db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$434.07/day",
+            "income": "$0.38",
+            "electricity": "-$434.45"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S9 (13Th) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Jul 2017",
+        "hashrate": "13Th/s",
+        "power": "1300W",
+        "noise": "85db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$435.77/day",
+            "income": "$1.03",
+            "electricity": "-$436.80"
+        }
+    },
+    {
+        "model": {
+            "name": "Ebang Ebit E9+ undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515362766/auahlxiostvdqj4vwfpq.jpg"
+        },
+        "release": "Jan 2018",
+        "hashrate": "9Th/s",
+        "power": "1300W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$436.09/day",
+            "income": "$0.71",
+            "electricity": "-$436.80"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S9k (13.5Th) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Aug 2019",
+        "hashrate": "13.5Th/s",
+        "power": "1310W",
+        "noise": "76db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$439.09/day",
+            "income": "$1.07",
+            "electricity": "-$440.16"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell KD Lite ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Jun 2022",
+        "hashrate": "16.2Th/s",
+        "power": "1330W",
+        "noise": "55db",
+        "algo": [
+            "Kadena"
+        ],
+        "profitability": {
+            "display_value": "-$439.68/day",
+            "income": "$7.20",
+            "electricity": "-$446.88"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S9i (14Th) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "May 2018",
+        "hashrate": "14Th/s",
+        "power": "1320W",
+        "noise": "76db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$442.41/day",
+            "income": "$1.11",
+            "electricity": "-$443.52"
+        }
+    },
+    {
+        "model": {
+            "name": "Ebang Ebit E9.2 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515362766/auahlxiostvdqj4vwfpq.jpg"
+        },
+        "release": "May 2018",
+        "hashrate": "12Th/s",
+        "power": "1320W",
+        "noise": "70db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$442.57/day",
+            "income": "$0.95",
+            "electricity": "-$443.52"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S9 (13.5Th) undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Sep 2017",
+        "hashrate": "13.5Th/s",
+        "power": "1323W",
+        "noise": "85db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$443.46/day",
+            "income": "$1.07",
+            "electricity": "-$444.53"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon A10 Pro+ ETH (750Mh) A10 PRO-S 7GB ETHMiner",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Dec 2020",
+        "hashrate": "750Mh/s",
+        "power": "1350W",
+        "noise": "75db",
+        "algo": [
+            "EtHash"
+        ],
+        "profitability": {
+            "display_value": "-$451.39/day",
+            "income": "$2.21",
+            "electricity": "-$453.60"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S9j (14.5Th) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Aug 2018",
+        "hashrate": "14.5Th/s",
+        "power": "1350W",
+        "noise": "76db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$452.45/day",
+            "income": "$1.15",
+            "electricity": "-$453.60"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer D3 (19.3Gh) undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Oct 2017",
+        "hashrate": "19.3Gh/s",
+        "power": "1350W",
+        "noise": "75db",
+        "algo": [
+            "X11"
+        ],
+        "profitability": {
+            "display_value": "-$453.38/day",
+            "income": "$0.22",
+            "electricity": "-$453.60"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon T2 Turbo 25T T2T-25T",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Oct 2018",
+        "hashrate": "25Th/s",
+        "power": "2050W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256",
+            "SHA-256",
+            "SHA-256",
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$455.37/day",
+            "income": "$1.59",
+            "electricity": "-$456.96"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S9 (14Th) undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Nov 2017",
+        "hashrate": "14Th/s",
+        "power": "1372W",
+        "noise": "85db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$459.88/day",
+            "income": "$1.11",
+            "electricity": "-$460.99"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitfily Snow Panther B1 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1533114181/vqbxxll5glabsuqsrxrq.png"
+        },
+        "release": "Jul 2018",
+        "hashrate": "16Th/s",
+        "power": "1380W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$462.41/day",
+            "income": "$1.27",
+            "electricity": "-$463.68"
+        }
+    },
+    {
+        "model": {
+            "name": "Todek Toddminer C1 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1588846988/t8tiqmdlzen6prarondi.png"
+        },
+        "release": "Mar 2020",
+        "hashrate": "1.55Th/s",
+        "power": "1380W",
+        "noise": "70db",
+        "algo": [
+            "Eaglesong"
+        ],
+        "profitability": {
+            "display_value": "-$462.86/day",
+            "income": "$0.82",
+            "electricity": "-$463.68"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon S11 SiaMaster ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Apr 2018",
+        "hashrate": "4.3Th/s",
+        "power": "1350W",
+        "noise": "70db",
+        "algo": [
+            "Blake2B"
+        ],
+        "profitability": {
+            "display_value": "-$463.60/day",
+            "income": "$0.08",
+            "electricity": "-$463.68"
+        }
+    },
+    {
+        "model": {
+            "name": "Halong Mining DragonMint B52 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514768333/pz1lf0ytguwgjwm5pkxg.jpg"
+        },
+        "release": "Apr 2018",
+        "hashrate": "3.83Th/s",
+        "power": "1380W",
+        "noise": "70db",
+        "algo": [
+            "Blake2B"
+        ],
+        "profitability": {
+            "display_value": "-$463.61/day",
+            "income": "$0.07",
+            "electricity": "-$463.68"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer DR3 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Sep 2018",
+        "hashrate": "7.8Th/s",
+        "power": "1410W",
+        "noise": "76db",
+        "algo": [
+            "Blake256R14"
+        ],
+        "profitability": {
+            "display_value": "-$473.25/day",
+            "income": "$0.51",
+            "electricity": "-$473.76"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer Z11 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Apr 2019",
+        "hashrate": "135ksol/s",
+        "power": "1418W",
+        "noise": "70db",
+        "algo": [
+            "Equihash"
+        ],
+        "profitability": {
+            "display_value": "-$474.13/day",
+            "income": "$2.32",
+            "electricity": "-$476.45"
+        }
+    },
+    {
+        "model": {
+            "name": "FusionSilicon X7 Miner ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1547993371/awqdarxhsaafw5iqbl10.png"
+        },
+        "release": "Mar 2019",
+        "hashrate": "262Gh/s",
+        "power": "1420W",
+        "noise": "72db",
+        "algo": [
+            "X11"
+        ],
+        "profitability": {
+            "display_value": "-$474.13/day",
+            "income": "$2.99",
+            "electricity": "-$477.12"
+        }
+    },
+    {
+        "model": {
+            "name": "Ebang Ebit E9i ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515362766/auahlxiostvdqj4vwfpq.jpg"
+        },
+        "release": "Jul 2018",
+        "hashrate": "13.5Th/s",
+        "power": "1420W",
+        "noise": "74db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$476.05/day",
+            "income": "$1.07",
+            "electricity": "-$477.12"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell LB Lite ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "May 2022",
+        "hashrate": "1.62Th/s",
+        "power": "1450W",
+        "noise": "55db",
+        "algo": [
+            "Lbry"
+        ],
+        "profitability": {
+            "display_value": "-$480.01/day",
+            "income": "$7.19",
+            "electricity": "-$487.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer T9+ (10.5Th) undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Jan 2018",
+        "hashrate": "10.5Th/s",
+        "power": "1432W",
+        "noise": "76db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$480.32/day",
+            "income": "$0.83",
+            "electricity": "-$481.15"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell LT Lite ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "May 2022",
+        "hashrate": "1.62Gh/s",
+        "power": "1450W",
+        "noise": "55db",
+        "algo": [
+            "Scrypt"
+        ],
+        "profitability": {
+            "display_value": "-$483.35/day",
+            "income": "$3.85",
+            "electricity": "-$487.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer T9 (11.5Th) undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Apr 2017",
+        "hashrate": "11.5Th/s",
+        "power": "1450W",
+        "noise": "68db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$486.29/day",
+            "income": "$0.91",
+            "electricity": "-$487.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Halong Mining DragonMint T1 DragonMint 16T",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514768333/pz1lf0ytguwgjwm5pkxg.jpg"
+        },
+        "release": "Apr 2018",
+        "hashrate": "16Th/s",
+        "power": "1480W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$496.01/day",
+            "income": "$1.27",
+            "electricity": "-$497.28"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell HS5 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Feb 2021",
+        "hashrate": "2.7Th/s",
+        "power": "2650W",
+        "noise": "80db",
+        "algo": [
+            "Handshake",
+            "Blake2B-Sia"
+        ],
+        "profitability": {
+            "display_value": "-$499.51/day",
+            "income": "$4.49",
+            "electricity": "-$504.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer Z15 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Jun 2020",
+        "hashrate": "420ksol/s",
+        "power": "1510W",
+        "noise": "72db",
+        "algo": [
+            "Equihash"
+        ],
+        "profitability": {
+            "display_value": "-$500.13/day",
+            "income": "$7.23",
+            "electricity": "-$507.36"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon A6 LTCMaster undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Jan 2018",
+        "hashrate": "1.23Gh/s",
+        "power": "1500W",
+        "noise": "82db",
+        "algo": [
+            "Scrypt"
+        ],
+        "profitability": {
+            "display_value": "-$501.07/day",
+            "income": "$2.93",
+            "electricity": "-$504.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon A5+ DashMaster ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Mar 2018",
+        "hashrate": "65Gh/s",
+        "power": "1500W",
+        "noise": "75db",
+        "algo": [
+            "X11"
+        ],
+        "profitability": {
+            "display_value": "-$503.26/day",
+            "income": "$0.74",
+            "electricity": "-$504.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Dayun Zig Z1 Pro Z1Pro",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1536790275/dfldw8lndbmhchhabwbq.jpg"
+        },
+        "release": "Jun 2019",
+        "hashrate": "13Gh/s",
+        "power": "1500W",
+        "noise": "72db",
+        "algo": [
+            "Lyra2REv2"
+        ],
+        "profitability": {
+            "display_value": "-$503.93/day",
+            "income": "$0.07",
+            "electricity": "-$504.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S11 (20.5Th) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Nov 2018",
+        "hashrate": "20.5Th/s",
+        "power": "1530W",
+        "noise": "76db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$512.45/day",
+            "income": "$1.63",
+            "electricity": "-$514.08"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon A9++ ZMaster A9 Plus Plus ZMaster",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "May 2019",
+        "hashrate": "140ksol/s",
+        "power": "1550W",
+        "noise": "75db",
+        "algo": [
+            "Equihash"
+        ],
+        "profitability": {
+            "display_value": "-$518.39/day",
+            "income": "$2.41",
+            "electricity": "-$520.80"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon A9+ ZMaster A9 Plus ZMaster",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Jan 2019",
+        "hashrate": "120ksol/s",
+        "power": "1550W",
+        "noise": "75db",
+        "algo": [
+            "Equihash"
+        ],
+        "profitability": {
+            "display_value": "-$518.74/day",
+            "income": "$2.06",
+            "electricity": "-$520.80"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer D5 (119Gh)\t ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Nov 2018",
+        "hashrate": "119Gh/s",
+        "power": "1566W",
+        "noise": "76db",
+        "algo": [
+            "X11"
+        ],
+        "profitability": {
+            "display_value": "-$524.82/day",
+            "income": "$1.36",
+            "electricity": "-$526.18"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon T2 Terminator Terminator 2",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "May 2018",
+        "hashrate": "17.2Th/s",
+        "power": "1570W",
+        "noise": "72db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$526.16/day",
+            "income": "$1.36",
+            "electricity": "-$527.52"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer T9 (12.5Th) undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Aug 2017",
+        "hashrate": "12.5Th/s",
+        "power": "1576W",
+        "noise": "68db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$528.54/day",
+            "income": "$0.99",
+            "electricity": "-$529.54"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer K5 (1130Gh) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Apr 2020",
+        "hashrate": "1.13Th/s",
+        "power": "1580W",
+        "noise": "72db",
+        "algo": [
+            "Eaglesong"
+        ],
+        "profitability": {
+            "display_value": "-$530.28/day",
+            "income": "$0.60",
+            "electricity": "-$530.88"
+        }
+    },
+    {
+        "model": {
+            "name": "Obelisk SC1 Immersion SC1 immersion, 4 boards (Gen 2)",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1516207442/obnwkanrp7k7tnkpqura.png"
+        },
+        "release": "Mar 2019",
+        "hashrate": "2.2Th/s",
+        "power": "1600W",
+        "noise": "30db",
+        "algo": [
+            "Blake2B",
+            "Blake2B-Sia"
+        ],
+        "profitability": {
+            "display_value": "-$535.77/day",
+            "income": "$1.83",
+            "electricity": "-$537.60"
+        }
+    },
+    {
+        "model": {
+            "name": "Holic H22 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1536826932/ifvehs4dethb4qktiphd.jpg"
+        },
+        "release": "Dec 2018",
+        "hashrate": "22Th/s",
+        "power": "1700W",
+        "noise": "70db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$535.85/day",
+            "income": "$1.75",
+            "electricity": "-$537.60"
+        }
+    },
+    {
+        "model": {
+            "name": "StrongU STU-U1 Miner U1",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1538482733/rwhy7jilmljrxizsfnwe.png"
+        },
+        "release": "Oct 2018",
+        "hashrate": "11Th/s",
+        "power": "1600W",
+        "noise": "76db",
+        "algo": [
+            "Blake256R14"
+        ],
+        "profitability": {
+            "display_value": "-$536.88/day",
+            "income": "$0.72",
+            "electricity": "-$537.60"
+        }
+    },
+    {
+        "model": {
+            "name": "StrongU STU-U2 Miner U2",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1538482733/rwhy7jilmljrxizsfnwe.png"
+        },
+        "release": "Oct 2018",
+        "hashrate": "7Th/s",
+        "power": "1600W",
+        "noise": "76db",
+        "algo": [
+            "Blake2B"
+        ],
+        "profitability": {
+            "display_value": "-$537.46/day",
+            "income": "$0.14",
+            "electricity": "-$537.60"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer DR5 (35Th) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Sep 2021",
+        "hashrate": "35Th/s",
+        "power": "1610W",
+        "noise": "76db",
+        "algo": [
+            "Blake256R14"
+        ],
+        "profitability": {
+            "display_value": "-$538.66/day",
+            "income": "$2.30",
+            "electricity": "-$540.96"
+        }
+    },
+    {
+        "model": {
+            "name": "Ebang Ebit E10 undefined",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515362766/auahlxiostvdqj4vwfpq.jpg"
+        },
+        "release": "Feb 2018",
+        "hashrate": "18Th/s",
+        "power": "1650W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$552.97/day",
+            "income": "$1.43",
+            "electricity": "-$554.40"
+        }
+    },
+    {
+        "model": {
+            "name": "Canaan AvalonMiner 921 Avalon A9, A921",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514766048/ovb1raclneuhybl7bi4m.png"
+        },
+        "release": "Sep 2018",
+        "hashrate": "20Th/s",
+        "power": "1700W",
+        "noise": "72db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$569.61/day",
+            "income": "$1.59",
+            "electricity": "-$571.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S9 Hydro (18Th) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Aug 2018",
+        "hashrate": "18Th/s",
+        "power": "1728W",
+        "noise": "45db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$579.18/day",
+            "income": "$1.43",
+            "electricity": "-$580.61"
+        }
+    },
+    {
+        "model": {
+            "name": "Ebang Ebit E9.3 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515362766/auahlxiostvdqj4vwfpq.jpg"
+        },
+        "release": "May 2018",
+        "hashrate": "16Th/s",
+        "power": "1760W",
+        "noise": "72db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$590.09/day",
+            "income": "$1.27",
+            "electricity": "-$591.36"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer DR5 (34Th) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Dec 2018",
+        "hashrate": "34Th/s",
+        "power": "1800W",
+        "noise": "76db",
+        "algo": [
+            "Blake256R14"
+        ],
+        "profitability": {
+            "display_value": "-$602.56/day",
+            "income": "$2.24",
+            "electricity": "-$604.80"
+        }
+    },
+    {
+        "model": {
+            "name": "StrongU STU-U1+ Miner U1 Plus",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1538482733/rwhy7jilmljrxizsfnwe.png"
+        },
+        "release": "Oct 2018",
+        "hashrate": "12.8Th/s",
+        "power": "1850W",
+        "noise": "76db",
+        "algo": [
+            "Blake256R14"
+        ],
+        "profitability": {
+            "display_value": "-$620.76/day",
+            "income": "$0.84",
+            "electricity": "-$621.60"
+        }
+    },
+    {
+        "model": {
+            "name": "MicroBT Whatsminer M21 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1537951897/y9kwadculfo3y6puz5ev.png"
+        },
+        "release": "Aug 2019",
+        "hashrate": "31Th/s",
+        "power": "1860W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$622.50/day",
+            "income": "$2.46",
+            "electricity": "-$624.96"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer E9 (2.4Gh) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Jul 2022",
+        "hashrate": "2.4Gh/s",
+        "power": "1920W",
+        "noise": "75db",
+        "algo": [
+            "EtHash"
+        ],
+        "profitability": {
+            "display_value": "-$638.05/day",
+            "income": "$7.07",
+            "electricity": "-$645.12"
+        }
+    },
+    {
+        "model": {
+            "name": "Ebang Ebit E11 E11 30T",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515362766/auahlxiostvdqj4vwfpq.jpg"
+        },
+        "release": "Oct 2018",
+        "hashrate": "30Th/s",
+        "power": "1950W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$652.82/day",
+            "income": "$2.38",
+            "electricity": "-$655.20"
+        }
+    },
+    {
+        "model": {
+            "name": "GMO miner B2 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1528272085/rcr7y9gs38x4uzzg2kw3.png"
+        },
+        "release": "Oct 2018",
+        "hashrate": "24Th/s",
+        "power": "1950W",
+        "noise": "70db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$653.30/day",
+            "income": "$1.90",
+            "electricity": "-$655.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S17 Pro (50Th) Antminer S17 Pro-50TH/s",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Apr 2019",
+        "hashrate": "50Th/s",
+        "power": "1975W",
+        "noise": "82db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$659.63/day",
+            "income": "$3.97",
+            "electricity": "-$663.60"
+        }
+    },
+    {
+        "model": {
+            "name": "Ebang Ebit E11++ E11++ 44T",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515362766/auahlxiostvdqj4vwfpq.jpg"
+        },
+        "release": "Oct 2018",
+        "hashrate": "44Th/s",
+        "power": "1980W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$661.79/day",
+            "income": "$3.49",
+            "electricity": "-$665.28"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon T2 Turbo T2turbo 24T (T2T-24T)",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Aug 2018",
+        "hashrate": "24Th/s",
+        "power": "1980W",
+        "noise": "72db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$663.38/day",
+            "income": "$1.90",
+            "electricity": "-$665.28"
+        }
+    },
+    {
+        "model": {
+            "name": "MicroBT Whatsminer M3 M3V1",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1537951897/y9kwadculfo3y6puz5ev.png"
+        },
+        "release": "Jan 2018",
+        "hashrate": "12Th/s",
+        "power": "2000W",
+        "noise": "78db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$671.05/day",
+            "income": "$0.95",
+            "electricity": "-$672.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Ebang Ebit E11+ E11+ 37T",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515362766/auahlxiostvdqj4vwfpq.jpg"
+        },
+        "release": "Oct 2018",
+        "hashrate": "37Th/s",
+        "power": "2035W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$680.82/day",
+            "income": "$2.94",
+            "electricity": "-$683.76"
+        }
+    },
+    {
+        "model": {
+            "name": "MicroBT Whatsminer M3X M3V2",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1537951897/y9kwadculfo3y6puz5ev.png"
+        },
+        "release": "Mar 2018",
+        "hashrate": "12.5Th/s",
+        "power": "2050W",
+        "noise": "78db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$687.81/day",
+            "income": "$0.99",
+            "electricity": "-$688.80"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell LT5 LT5 Dogecoin + Litecoin",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Mar 2021",
+        "hashrate": "2.05Gh/s",
+        "power": "2080W",
+        "noise": "80db",
+        "algo": [
+            "Scrypt"
+        ],
+        "profitability": {
+            "display_value": "-$694.00/day",
+            "income": "$4.88",
+            "electricity": "-$698.88"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S17 Pro (53Th) Antminer S17 Pro-53TH/s",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Apr 2019",
+        "hashrate": "53Th/s",
+        "power": "2094W",
+        "noise": "82db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$699.38/day",
+            "income": "$4.21",
+            "electricity": "-$703.58"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon A6+ LTCMaster ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Mar 2019",
+        "hashrate": "2.2Gh/s",
+        "power": "2100W",
+        "noise": "82db",
+        "algo": [
+            "Scrypt"
+        ],
+        "profitability": {
+            "display_value": "-$700.37/day",
+            "income": "$5.23",
+            "electricity": "-$705.60"
+        }
+    },
+    {
+        "model": {
+            "name": "StrongU STU-U8 Miner U8",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1538482733/rwhy7jilmljrxizsfnwe.png"
+        },
+        "release": "Jul 2019",
+        "hashrate": "46Th/s",
+        "power": "2100W",
+        "noise": "76db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$701.95/day",
+            "income": "$3.65",
+            "electricity": "-$705.60"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon T3 43T Terminator3-43T",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Jan 2019",
+        "hashrate": "43Th/s",
+        "power": "2100W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$702.19/day",
+            "income": "$3.41",
+            "electricity": "-$705.60"
+        }
+    },
+    {
+        "model": {
+            "name": "Holic H28 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1536826932/ifvehs4dethb4qktiphd.jpg"
+        },
+        "release": "Dec 2018",
+        "hashrate": "28Th/s",
+        "power": "2100W",
+        "noise": "70db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$703.38/day",
+            "income": "$2.22",
+            "electricity": "-$705.60"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon T2 Turbo 26T T2T-26T",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Jul 2021",
+        "hashrate": "26Th/s",
+        "power": "2100W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$703.54/day",
+            "income": "$2.06",
+            "electricity": "-$705.60"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitfily Snow Panther B1+ ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1533114181/vqbxxll5glabsuqsrxrq.png"
+        },
+        "release": "Aug 2018",
+        "hashrate": "24.5Th/s",
+        "power": "2100W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$703.66/day",
+            "income": "$1.94",
+            "electricity": "-$705.60"
+        }
+    },
+    {
+        "model": {
+            "name": "iBeLink DM56G ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515841553/hwvles4tlxwrly0h8cq7.png"
+        },
+        "release": "May 2018",
+        "hashrate": "56Gh/s",
+        "power": "2100W",
+        "noise": "72db",
+        "algo": [
+            "X11"
+        ],
+        "profitability": {
+            "display_value": "-$704.96/day",
+            "income": "$0.64",
+            "electricity": "-$705.60"
+        }
+    },
+    {
+        "model": {
+            "name": "iBeLink DSM7T ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515841553/hwvles4tlxwrly0h8cq7.png"
+        },
+        "release": "Aug 2018",
+        "hashrate": "7Th/s",
+        "power": "2100W",
+        "noise": "76db",
+        "algo": [
+            "Blake256R14",
+            "Blake2B"
+        ],
+        "profitability": {
+            "display_value": "-$705.14/day",
+            "income": "$0.46",
+            "electricity": "-$705.60"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitfily Snow Panther D1 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1533114181/vqbxxll5glabsuqsrxrq.png"
+        },
+        "release": "Jul 2018",
+        "hashrate": "6Th/s",
+        "power": "2100W",
+        "noise": "72db",
+        "algo": [
+            "Blake256R14"
+        ],
+        "profitability": {
+            "display_value": "-$705.21/day",
+            "income": "$0.39",
+            "electricity": "-$705.60"
+        }
+    },
+    {
+        "model": {
+            "name": "iBeLink DSM6T DCR 6Th/s",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515841553/hwvles4tlxwrly0h8cq7.png"
+        },
+        "release": "Jun 2018",
+        "hashrate": "6Th/s",
+        "power": "2100W",
+        "noise": "78db",
+        "algo": [
+            "Blake256R14"
+        ],
+        "profitability": {
+            "display_value": "-$705.21/day",
+            "income": "$0.39",
+            "electricity": "-$705.60"
+        }
+    },
+    {
+        "model": {
+            "name": "MicroBT Whatsminer M10 M10V1",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1537951897/y9kwadculfo3y6puz5ev.png"
+        },
+        "release": "Sep 2018",
+        "hashrate": "33Th/s",
+        "power": "2145W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$718.10/day",
+            "income": "$2.62",
+            "electricity": "-$720.72"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon T3 39T ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Mar 2019",
+        "hashrate": "39Th/s",
+        "power": "2150W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$719.31/day",
+            "income": "$3.09",
+            "electricity": "-$722.40"
+        }
+    },
+    {
+        "model": {
+            "name": "StrongU STU-U6 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1538482733/rwhy7jilmljrxizsfnwe.png"
+        },
+        "release": "Nov 2019",
+        "hashrate": "440Gh/s",
+        "power": "2200W",
+        "noise": "76db",
+        "algo": [
+            "X11"
+        ],
+        "profitability": {
+            "display_value": "-$734.17/day",
+            "income": "$5.03",
+            "electricity": "-$739.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon T3+ 52T Terminator3-Plus-52T",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "May 2019",
+        "hashrate": "52Th/s",
+        "power": "2800W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$735.07/day",
+            "income": "$4.13",
+            "electricity": "-$739.20"
+        }
+    },
+    {
+        "model": {
+            "name": "StrongU STU-U1++ Miner U1 Plus Plus",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1538482733/rwhy7jilmljrxizsfnwe.png"
+        },
+        "release": "Jul 2019",
+        "hashrate": "52Th/s",
+        "power": "2200W",
+        "noise": "76db",
+        "algo": [
+            "Blake256R14"
+        ],
+        "profitability": {
+            "display_value": "-$735.78/day",
+            "income": "$3.42",
+            "electricity": "-$739.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer T17 (40Th) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "May 2019",
+        "hashrate": "40Th/s",
+        "power": "2200W",
+        "noise": "82db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$736.03/day",
+            "income": "$3.17",
+            "electricity": "-$739.20"
+        }
+    },
+    {
+        "model": {
+            "name": "MicroBT Whatsminer D1 Whatsminer DCR 48Th/s, D10V1",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1537951897/y9kwadculfo3y6puz5ev.png"
+        },
+        "release": "Nov 2018",
+        "hashrate": "48Th/s",
+        "power": "2200W",
+        "noise": "75db",
+        "algo": [
+            "Blake256R14"
+        ],
+        "profitability": {
+            "display_value": "-$736.04/day",
+            "income": "$3.16",
+            "electricity": "-$739.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon T2 Turbo+ 32T T2turbo+32T (T2T-32T)",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Sep 2018",
+        "hashrate": "32Th/s",
+        "power": "2200W",
+        "noise": "72db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$736.66/day",
+            "income": "$2.54",
+            "electricity": "-$739.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Aisen A1 Pro Aixin A1 Pro / Love Core A1 Pro",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1621022874/gtam7tz6tnarauhm3pk4.png"
+        },
+        "release": "May 2021",
+        "hashrate": "23Th/s",
+        "power": "2200W",
+        "noise": "72db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$737.38/day",
+            "income": "$1.82",
+            "electricity": "-$739.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Dayun Zig D1 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1536790275/dfldw8lndbmhchhabwbq.jpg"
+        },
+        "release": "Nov 2018",
+        "hashrate": "48Gh/s",
+        "power": "2200W",
+        "noise": "55db",
+        "algo": [
+            "X11"
+        ],
+        "profitability": {
+            "display_value": "-$738.65/day",
+            "income": "$0.55",
+            "electricity": "-$739.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell KD5 KD5 Kadena miner",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Mar 2021",
+        "hashrate": "18Th/s",
+        "power": "2250W",
+        "noise": "80db",
+        "algo": [
+            "Kadena"
+        ],
+        "profitability": {
+            "display_value": "-$748.00/day",
+            "income": "$8.00",
+            "electricity": "-$756.00"
+        }
+    },
+    {
+        "model": {
+            "name": "iBeLink BM-K1+ BM-K1 PLUS",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515841553/hwvles4tlxwrly0h8cq7.png"
+        },
+        "release": "Sep 2021",
+        "hashrate": "15Th/s",
+        "power": "2250W",
+        "noise": "74db",
+        "algo": [
+            "Kadena"
+        ],
+        "profitability": {
+            "display_value": "-$749.33/day",
+            "income": "$6.67",
+            "electricity": "-$756.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell KD6-SE KD6 Kadena miner Special Edition",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Jun 2022",
+        "hashrate": "25.3Th/s",
+        "power": "2300W",
+        "noise": "80db",
+        "algo": [
+            "Kadena"
+        ],
+        "profitability": {
+            "display_value": "-$761.56/day",
+            "income": "$11.24",
+            "electricity": "-$772.80"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon T2 Turbo 29T/30T T2T-29T/30T",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Jan 2021",
+        "hashrate": "30Th/s",
+        "power": "2400W",
+        "noise": "72db",
+        "algo": [
+            "SHA-256",
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$763.78/day",
+            "income": "$2.30",
+            "electricity": "-$766.08"
+        }
+    },
+    {
+        "model": {
+            "name": "iBeLink BM-S1 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515841553/hwvles4tlxwrly0h8cq7.png"
+        },
+        "release": "Mar 2022",
+        "hashrate": "6.8Th/s",
+        "power": "2350W",
+        "noise": "75db",
+        "algo": [
+            "Blake2B-Sia"
+        ],
+        "profitability": {
+            "display_value": "-$783.95/day",
+            "income": "$5.65",
+            "electricity": "-$789.60"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon A11 Pro ETH (1500Mh) A11 Pro ETHMiner 8G 1500Mh",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Nov 2021",
+        "hashrate": "1.5Gh/s",
+        "power": "2350W",
+        "noise": "75db",
+        "algo": [
+            "EtHash"
+        ],
+        "profitability": {
+            "display_value": "-$785.18/day",
+            "income": "$4.42",
+            "electricity": "-$789.60"
+        }
+    },
+    {
+        "model": {
+            "name": "Canaan AvalonMiner 1047 A1047",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514766048/ovb1raclneuhybl7bi4m.png"
+        },
+        "release": "Sep 2019",
+        "hashrate": "37Th/s",
+        "power": "2380W",
+        "noise": "70db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$796.74/day",
+            "income": "$2.94",
+            "electricity": "-$799.68"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S17 (53Th) Antminer S17-53TH/s",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Apr 2019",
+        "hashrate": "53Th/s",
+        "power": "2385W",
+        "noise": "82db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$797.15/day",
+            "income": "$4.21",
+            "electricity": "-$801.36"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell CK5 CKB Miner",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Mar 2021",
+        "hashrate": "12Th/s",
+        "power": "2400W",
+        "noise": "80db",
+        "algo": [
+            "Eaglesong"
+        ],
+        "profitability": {
+            "display_value": "-$800.06/day",
+            "income": "$6.34",
+            "electricity": "-$806.40"
+        }
+    },
+    {
+        "model": {
+            "name": "iBeLink BM-N1 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515841553/hwvles4tlxwrly0h8cq7.png"
+        },
+        "release": "Nov 2020",
+        "hashrate": "6.6Th/s",
+        "power": "2400W",
+        "noise": "72db",
+        "algo": [
+            "Eaglesong"
+        ],
+        "profitability": {
+            "display_value": "-$802.91/day",
+            "income": "$3.49",
+            "electricity": "-$806.40"
+        }
+    },
+    {
+        "model": {
+            "name": "Ebang Ebit E12+ E12+ 50TH/S",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515362766/auahlxiostvdqj4vwfpq.jpg"
+        },
+        "release": "Sep 2019",
+        "hashrate": "50Th/s",
+        "power": "2500W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$836.03/day",
+            "income": "$3.97",
+            "electricity": "-$840.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Ebang Ebit E12 E12 44TH/S",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515362766/auahlxiostvdqj4vwfpq.jpg"
+        },
+        "release": "Sep 2019",
+        "hashrate": "44Th/s",
+        "power": "2500W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$836.51/day",
+            "income": "$3.49",
+            "electricity": "-$840.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S17 (56Th) Antminer S17-56TH/s",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Apr 2019",
+        "hashrate": "56Th/s",
+        "power": "2520W",
+        "noise": "82db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$842.28/day",
+            "income": "$4.44",
+            "electricity": "-$846.72"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell KD6 KD6 Kadena miner",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Apr 2022",
+        "hashrate": "29.2Th/s",
+        "power": "2630W",
+        "noise": "80db",
+        "algo": [
+            "Kadena"
+        ],
+        "profitability": {
+            "display_value": "-$847.19/day",
+            "income": "$12.97",
+            "electricity": "-$860.16"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon T2 Turbo HF+ T2THF+",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Jul 2021",
+        "hashrate": "33Th/s",
+        "power": "2600W",
+        "noise": "72db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$870.98/day",
+            "income": "$2.62",
+            "electricity": "-$873.60"
+        }
+    },
+    {
+        "model": {
+            "name": "Todek Toddminer C1 PRO ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1588846988/t8tiqmdlzen6prarondi.png"
+        },
+        "release": "May 2020",
+        "hashrate": "3Th/s",
+        "power": "2700W",
+        "noise": "70db",
+        "algo": [
+            "Eaglesong"
+        ],
+        "profitability": {
+            "display_value": "-$905.62/day",
+            "income": "$1.58",
+            "electricity": "-$907.20"
+        }
+    },
+    {
+        "model": {
+            "name": "iPollo G1 Nano labs iPollo G1 Grin Miner",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1630009918/q5oik7gskqxrop4ym6w4.png"
+        },
+        "release": "Dec 2020",
+        "hashrate": "36GPS",
+        "power": "2800W",
+        "noise": "75db",
+        "algo": [
+            "Cuckatoo32"
+        ],
+        "profitability": {
+            "display_value": "-$927.82/day",
+            "income": "$12.98",
+            "electricity": "-$940.80"
+        }
+    },
+    {
+        "model": {
+            "name": "StrongU STU-U8 Pro Miner U8 Pro",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1538482733/rwhy7jilmljrxizsfnwe.png"
+        },
+        "release": "Sep 2019",
+        "hashrate": "60Th/s",
+        "power": "2800W",
+        "noise": "76db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$936.04/day",
+            "income": "$4.76",
+            "electricity": "-$940.80"
+        }
+    },
+    {
+        "model": {
+            "name": "Hummer Miner Mars H1 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1593773751/ko5koyiseohagm7qsdxl.png"
+        },
+        "release": "Jul 2020",
+        "hashrate": "88Gh/s",
+        "power": "2800W",
+        "noise": "75db",
+        "algo": [
+            "Handshake"
+        ],
+        "profitability": {
+            "display_value": "-$940.66/day",
+            "income": "$0.14",
+            "electricity": "-$940.80"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S19j Pro (96Th) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Aug 2021",
+        "hashrate": "96Th/s",
+        "power": "2832W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$943.94/day",
+            "income": "$7.62",
+            "electricity": "-$951.55"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S17e (64Th) Antminer S17e 64TH/s (266-A)",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Nov 2019",
+        "hashrate": "64Th/s",
+        "power": "2880W",
+        "noise": "80db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$962.60/day",
+            "income": "$5.08",
+            "electricity": "-$967.68"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer T17e (53Th) Antminer T17e 53TH/s (266-A)",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Nov 2019",
+        "hashrate": "53Th/s",
+        "power": "2915W",
+        "noise": "80db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$975.23/day",
+            "income": "$4.21",
+            "electricity": "-$979.44"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S17+ (73Th) 266-Aa",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Dec 2019",
+        "hashrate": "73Th/s",
+        "power": "2920W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$975.33/day",
+            "income": "$5.79",
+            "electricity": "-$981.12"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer KA3 (166Th) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Sep 2022",
+        "hashrate": "166Th/s",
+        "power": "3154W",
+        "noise": "80db",
+        "algo": [
+            "Kadena"
+        ],
+        "profitability": {
+            "display_value": "-$985.98/day",
+            "income": "$73.76",
+            "electricity": "-$1,059.74"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell KD5 Pro Kadena Miner Pro",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Aug 2022",
+        "hashrate": "24.5Th/s",
+        "power": "3000W",
+        "noise": "80db",
+        "algo": [
+            "Kadena"
+        ],
+        "profitability": {
+            "display_value": "-$997.11/day",
+            "income": "$10.89",
+            "electricity": "-$1,008.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S19 XP (140Th) S19XP",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Jul 2022",
+        "hashrate": "140Th/s",
+        "power": "3010W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,000.25/day",
+            "income": "$11.11",
+            "electricity": "-$1,011.36"
+        }
+    },
+    {
+        "model": {
+            "name": "iPollo B1L ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1630009918/q5oik7gskqxrop4ym6w4.png"
+        },
+        "release": "Mar 2022",
+        "hashrate": "60Th/s",
+        "power": "3000W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,003.24/day",
+            "income": "$4.76",
+            "electricity": "-$1,008.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S19j Pro (100Th) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Jun 2021",
+        "hashrate": "100Th/s",
+        "power": "3050W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,016.87/day",
+            "income": "$7.93",
+            "electricity": "-$1,024.80"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S19j Pro (104Th) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Jul 2021",
+        "hashrate": "104Th/s",
+        "power": "3068W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,022.60/day",
+            "income": "$8.25",
+            "electricity": "-$1,030.85"
+        }
+    },
+    {
+        "model": {
+            "name": "iPollo V1 iPollo V I",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1630009918/q5oik7gskqxrop4ym6w4.png"
+        },
+        "release": "Jun 2022",
+        "hashrate": "3.6Gh/s",
+        "power": "3100W",
+        "noise": "70db",
+        "algo": [
+            "EtHash"
+        ],
+        "profitability": {
+            "display_value": "-$1,031.00/day",
+            "income": "$10.60",
+            "electricity": "-$1,041.60"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell LT5 Pro LT5 Pro Dogecoin + Litecoin",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Aug 2021",
+        "hashrate": "2.45Gh/s",
+        "power": "3100W",
+        "noise": "80db",
+        "algo": [
+            "Scrypt"
+        ],
+        "profitability": {
+            "display_value": "-$1,035.77/day",
+            "income": "$5.83",
+            "electricity": "-$1,041.60"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon T3 50T Terminator3-50T",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Jul 2019",
+        "hashrate": "50Th/s",
+        "power": "3100W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,037.63/day",
+            "income": "$3.97",
+            "electricity": "-$1,041.60"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer D7 (1286Gh) Antminer D7 1.286Th",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Oct 2021",
+        "hashrate": "1.286Th/s",
+        "power": "3148W",
+        "noise": "75db",
+        "algo": [
+            "X11"
+        ],
+        "profitability": {
+            "display_value": "-$1,043.04/day",
+            "income": "$14.69",
+            "electricity": "-$1,057.73"
+        }
+    },
+    {
+        "model": {
+            "name": "iBeLink BM-S1 Max ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515841553/hwvles4tlxwrly0h8cq7.png"
+        },
+        "release": "May 2022",
+        "hashrate": "12Th/s",
+        "power": "3150W",
+        "noise": "75db",
+        "algo": [
+            "Blake2B-Sia"
+        ],
+        "profitability": {
+            "display_value": "-$1,048.42/day",
+            "income": "$9.98",
+            "electricity": "-$1,058.40"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer T19 (84Th) Model 240-Ca",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Jun 2020",
+        "hashrate": "84Th/s",
+        "power": "3150W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,051.74/day",
+            "income": "$6.66",
+            "electricity": "-$1,058.40"
+        }
+    },
+    {
+        "model": {
+            "name": "iBeLink BM-K1 Max BM-K1 Max Kadena",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515841553/hwvles4tlxwrly0h8cq7.png"
+        },
+        "release": "Jun 2022",
+        "hashrate": "32Th/s",
+        "power": "3200W",
+        "noise": "75db",
+        "algo": [
+            "Kadena"
+        ],
+        "profitability": {
+            "display_value": "-$1,060.98/day",
+            "income": "$14.22",
+            "electricity": "-$1,075.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell LT6 Goldshell LT6 Litecoin/Dogecoin Miner",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Jan 2022",
+        "hashrate": "3.35Gh/s",
+        "power": "3200W",
+        "noise": "80db",
+        "algo": [
+            "Scrypt"
+        ],
+        "profitability": {
+            "display_value": "-$1,067.23/day",
+            "income": "$7.97",
+            "electricity": "-$1,075.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer T17+ (64Th) 266-Aa",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Dec 2019",
+        "hashrate": "64Th/s",
+        "power": "3200W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,070.12/day",
+            "income": "$5.08",
+            "electricity": "-$1,075.20"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S19 Pro (110Th) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "May 2020",
+        "hashrate": "110Th/s",
+        "power": "3250W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,083.27/day",
+            "income": "$8.73",
+            "electricity": "-$1,092.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S19 (95Th) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "May 2020",
+        "hashrate": "95Th/s",
+        "power": "3250W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,084.46/day",
+            "income": "$7.54",
+            "electricity": "-$1,092.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S19j (90Th) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Jun 2021",
+        "hashrate": "90Th/s",
+        "power": "3250W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,084.86/day",
+            "income": "$7.14",
+            "electricity": "-$1,092.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Canaan AvalonMiner 1066 A1066",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514766048/ovb1raclneuhybl7bi4m.png"
+        },
+        "release": "Sep 2019",
+        "hashrate": "50Th/s",
+        "power": "3250W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,088.03/day",
+            "income": "$3.97",
+            "electricity": "-$1,092.00"
+        }
+    },
+    {
+        "model": {
+            "name": "MicroBT Whatsminer M50S ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1537951897/y9kwadculfo3y6puz5ev.png"
+        },
+        "release": "Jul 2022",
+        "hashrate": "126Th/s",
+        "power": "3276W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,090.74/day",
+            "income": "$10.00",
+            "electricity": "-$1,100.74"
+        }
+    },
+    {
+        "model": {
+            "name": "MicroBT Whatsminer M30S ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1537951897/y9kwadculfo3y6puz5ev.png"
+        },
+        "release": "Apr 2020",
+        "hashrate": "86Th/s",
+        "power": "3268W",
+        "noise": "72db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,091.22/day",
+            "income": "$6.82",
+            "electricity": "-$1,098.05"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell SC6 SE Sia Coin Miner 6 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Sep 2022",
+        "hashrate": "17Th/s",
+        "power": "3300W",
+        "noise": "80db",
+        "algo": [
+            "Blake2B-Sia"
+        ],
+        "profitability": {
+            "display_value": "-$1,094.67/day",
+            "income": "$14.13",
+            "electricity": "-$1,108.80"
+        }
+    },
+    {
+        "model": {
+            "name": "Canaan AvalonMiner 1146 Pro A1146 Pro",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514766048/ovb1raclneuhybl7bi4m.png"
+        },
+        "release": "Aug 2020",
+        "hashrate": "63Th/s",
+        "power": "3276W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,095.74/day",
+            "income": "$5.00",
+            "electricity": "-$1,100.74"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell CK6 CKB Nervos Miner ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Dec 2021",
+        "hashrate": "19.3Th/s",
+        "power": "3300W",
+        "noise": "80db",
+        "algo": [
+            "Eaglesong"
+        ],
+        "profitability": {
+            "display_value": "-$1,098.60/day",
+            "income": "$10.20",
+            "electricity": "-$1,108.80"
+        }
+    },
+    {
+        "model": {
+            "name": "MicroBT Whatsminer M50 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1537951897/y9kwadculfo3y6puz5ev.png"
+        },
+        "release": "Jul 2022",
+        "hashrate": "114Th/s",
+        "power": "3306W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,101.77/day",
+            "income": "$9.04",
+            "electricity": "-$1,110.82"
+        }
+    },
+    {
+        "model": {
+            "name": "Bolon Miner B11 Bolonminer B11",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1628091073/hbwhjgmxp8heabqtnff1.png"
+        },
+        "release": "Aug 2021",
+        "hashrate": "70Th/s",
+        "power": "3300W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,103.25/day",
+            "income": "$5.55",
+            "electricity": "-$1,108.80"
+        }
+    },
+    {
+        "model": {
+            "name": "Innosilicon T3+ 57T T3+57T",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1610196260/woa12nq8g3je3usodbek.png"
+        },
+        "release": "Sep 2019",
+        "hashrate": "57Th/s",
+        "power": "3300W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,104.28/day",
+            "income": "$4.52",
+            "electricity": "-$1,108.80"
+        }
+    },
+    {
+        "model": {
+            "name": "Goldshell KD Max ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1605300324/ao0jkadusi42uadtim7t.png"
+        },
+        "release": "Jun 2022",
+        "hashrate": "40.2Th/s",
+        "power": "3350W",
+        "noise": "80db",
+        "algo": [
+            "Kadena"
+        ],
+        "profitability": {
+            "display_value": "-$1,107.74/day",
+            "income": "$17.86",
+            "electricity": "-$1,125.60"
+        }
+    },
+    {
+        "model": {
+            "name": "StrongU Hornbill H8 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1538482733/rwhy7jilmljrxizsfnwe.png"
+        },
+        "release": "Oct 2020",
+        "hashrate": "74Th/s",
+        "power": "3330W",
+        "noise": "76db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,113.01/day",
+            "income": "$5.87",
+            "electricity": "-$1,118.88"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer T19 (88Th) ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Aug 2021",
+        "hashrate": "88Th/s",
+        "power": "3344W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,116.60/day",
+            "income": "$6.98",
+            "electricity": "-$1,123.58"
+        }
+    },
+    {
+        "model": {
+            "name": "MicroBT Whatsminer M31S ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1537951897/y9kwadculfo3y6puz5ev.png"
+        },
+        "release": "Apr 2020",
+        "hashrate": "76Th/s",
+        "power": "3220W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,117.55/day",
+            "income": "$6.03",
+            "electricity": "-$1,123.58"
+        }
+    },
+    {
+        "model": {
+            "name": "MicroBT Whatsminer M32 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1537951897/y9kwadculfo3y6puz5ev.png"
+        },
+        "release": "Jul 2020",
+        "hashrate": "62Th/s",
+        "power": "3348W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,120.01/day",
+            "income": "$4.92",
+            "electricity": "-$1,124.93"
+        }
+    },
+    {
+        "model": {
+            "name": "StrongU Hornbill H8 Pro ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1538482733/rwhy7jilmljrxizsfnwe.png"
+        },
+        "release": "Jul 2021",
+        "hashrate": "84Th/s",
+        "power": "3360W",
+        "noise": "76db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,122.30/day",
+            "income": "$6.66",
+            "electricity": "-$1,128.96"
+        }
+    },
+    {
+        "model": {
+            "name": "MicroBT Whatsminer M31S+ M31S PLUS",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1537951897/y9kwadculfo3y6puz5ev.png"
+        },
+        "release": "Dec 2020",
+        "hashrate": "80Th/s",
+        "power": "3360W",
+        "noise": "70db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,122.61/day",
+            "income": "$6.35",
+            "electricity": "-$1,128.96"
+        }
+    },
+    {
+        "model": {
+            "name": "MicroBT Whatsminer M20S ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1537951897/y9kwadculfo3y6puz5ev.png"
+        },
+        "release": "Aug 2019",
+        "hashrate": "68Th/s",
+        "power": "3360W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,123.56/day",
+            "income": "$5.40",
+            "electricity": "-$1,128.96"
+        }
+    },
+    {
+        "model": {
+            "name": "MicroBT Whatsminer M21S ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1537951897/y9kwadculfo3y6puz5ev.png"
+        },
+        "release": "Jun 2019",
+        "hashrate": "56Th/s",
+        "power": "3360W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,124.52/day",
+            "income": "$4.44",
+            "electricity": "-$1,128.96"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer L7 (9.5Gh) Antminer L7 9500Mh",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Nov 2021",
+        "hashrate": "9.5Gh/s",
+        "power": "3425W",
+        "noise": "75db",
+        "algo": [
+            "Scrypt"
+        ],
+        "profitability": {
+            "display_value": "-$1,128.20/day",
+            "income": "$22.60",
+            "electricity": "-$1,150.80"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer L7 (9.16Gh) Antminer L7 9160Mh",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Nov 2021",
+        "hashrate": "9.16Gh/s",
+        "power": "3425W",
+        "noise": "75db",
+        "algo": [
+            "Scrypt"
+        ],
+        "profitability": {
+            "display_value": "-$1,129.01/day",
+            "income": "$21.79",
+            "electricity": "-$1,150.80"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer L7 (9.05Gh) Antminer L7 9050Mh",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Feb 2022",
+        "hashrate": "9.05Gh/s",
+        "power": "3425W",
+        "noise": "75db",
+        "algo": [
+            "Scrypt"
+        ],
+        "profitability": {
+            "display_value": "-$1,129.27/day",
+            "income": "$21.53",
+            "electricity": "-$1,150.80"
+        }
+    },
+    {
+        "model": {
+            "name": "MicroBT Whatsminer M30S+ ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1537951897/y9kwadculfo3y6puz5ev.png"
+        },
+        "release": "Oct 2020",
+        "hashrate": "100Th/s",
+        "power": "3400W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,134.47/day",
+            "income": "$7.93",
+            "electricity": "-$1,142.40"
+        }
+    },
+    {
+        "model": {
+            "name": "Canaan AvalonMiner 1166 Pro A1166 Pro",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514766048/ovb1raclneuhybl7bi4m.png"
+        },
+        "release": "Aug 2020",
+        "hashrate": "81Th/s",
+        "power": "3400W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,135.97/day",
+            "income": "$6.43",
+            "electricity": "-$1,142.40"
+        }
+    },
+    {
+        "model": {
+            "name": "Canaan AvalonMiner 1246 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514766048/ovb1raclneuhybl7bi4m.png"
+        },
+        "release": "Jan 2021",
+        "hashrate": "90Th/s",
+        "power": "3420W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,141.98/day",
+            "income": "$7.14",
+            "electricity": "-$1,149.12"
+        }
+    },
+    {
+        "model": {
+            "name": "Canaan AvalonMiner 1126 Pro Avalon 1126 Pro S",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514766048/ovb1raclneuhybl7bi4m.png"
+        },
+        "release": "Aug 2021",
+        "hashrate": "68Th/s",
+        "power": "3420W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,143.72/day",
+            "income": "$5.40",
+            "electricity": "-$1,149.12"
+        }
+    },
+    {
+        "model": {
+            "name": "GMO miner B3 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1528272085/rcr7y9gs38x4uzzg2kw3.png"
+        },
+        "release": "Nov 2018",
+        "hashrate": "33Th/s",
+        "power": "3417W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,145.49/day",
+            "income": "$2.62",
+            "electricity": "-$1,148.11"
+        }
+    },
+    {
+        "model": {
+            "name": "MicroBT Whatsminer M32S ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1537951897/y9kwadculfo3y6puz5ev.png"
+        },
+        "release": "Nov 2020",
+        "hashrate": "66Th/s",
+        "power": "3432W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,147.92/day",
+            "income": "$5.24",
+            "electricity": "-$1,153.15"
+        }
+    },
+    {
+        "model": {
+            "name": "MicroBT Whatsminer M30S++ ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1537951897/y9kwadculfo3y6puz5ev.png"
+        },
+        "release": "Oct 2020",
+        "hashrate": "112Th/s",
+        "power": "3472W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,157.71/day",
+            "income": "$8.89",
+            "electricity": "-$1,166.59"
+        }
+    },
+    {
+        "model": {
+            "name": "MicroBT Whatsminer M10S ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1537951897/y9kwadculfo3y6puz5ev.png"
+        },
+        "release": "Sep 2018",
+        "hashrate": "55Th/s",
+        "power": "3500W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,171.64/day",
+            "income": "$4.36",
+            "electricity": "-$1,176.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Ebang Ebit E10D ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1515362766/auahlxiostvdqj4vwfpq.jpg"
+        },
+        "release": "Sep 2021",
+        "hashrate": "25Th/s",
+        "power": "3500W",
+        "noise": "75db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,174.02/day",
+            "income": "$1.98",
+            "electricity": "-$1,176.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Spondoolies SPx36 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1522340104/o4silg6r1ijxxdz2cwvy.png"
+        },
+        "release": "Sep 2018",
+        "hashrate": "540Gh/s",
+        "power": "4400W",
+        "noise": "75db",
+        "algo": [
+            "X11"
+        ],
+        "profitability": {
+            "display_value": "-$1,472.23/day",
+            "income": "$6.17",
+            "electricity": "-$1,478.40"
+        }
+    },
+    {
+        "model": {
+            "name": "Pantech WX6 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1518038432/g8hqjw68gknnhzrkpq7z.png"
+        },
+        "release": "Jan 2018",
+        "hashrate": "34Th/s",
+        "power": "5000W",
+        "noise": "72db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,677.30/day",
+            "income": "$2.70",
+            "electricity": "-$1,680.00"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitfily Snow Panther A1 Snow Leopard A1",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1533114181/vqbxxll5glabsuqsrxrq.png"
+        },
+        "release": "Jan 2018",
+        "hashrate": "49Th/s",
+        "power": "5400W",
+        "noise": "82db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,810.51/day",
+            "income": "$3.89",
+            "electricity": "-$1,814.40"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer S19 Pro+ Hyd (198Th) j0-10",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "May 2022",
+        "hashrate": "198Th/s",
+        "power": "5445W",
+        "noise": "50db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,813.81/day",
+            "income": "$15.71",
+            "electricity": "-$1,829.52"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer T19 Hydro (145Th) Bitcoin Miner T19 Hydro",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Oct 2022",
+        "hashrate": "145Th/s",
+        "power": "5438W",
+        "noise": "40db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,815.66/day",
+            "income": "$11.50",
+            "electricity": "-$1,827.17"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitmain Antminer T19 Hydro (158Th) Bitcoin Miner T19 Hydro",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1514560320/idijabf92g13mc8aqxhc.png"
+        },
+        "release": "Oct 2022",
+        "hashrate": "158Th/s",
+        "power": "5451W",
+        "noise": "40db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$1,819.00/day",
+            "income": "$12.54",
+            "electricity": "-$1,831.54"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitfury Tardis ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1542888391/ulgj3kalkkwefyuivfce.png"
+        },
+        "release": "Nov 2018",
+        "hashrate": "80Th/s",
+        "power": "6300W",
+        "noise": "80db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$2,110.45/day",
+            "income": "$6.35",
+            "electricity": "-$2,116.80"
+        }
+    },
+    {
+        "model": {
+            "name": "Bitfury B8 ",
+            "logo": "https://res.cloudinary.com/dluwgr5op/image/upload/c_fit,f_auto,h_60,w_60/v1542888391/ulgj3kalkkwefyuivfce.png"
+        },
+        "release": "Dec 2017",
+        "hashrate": "49Th/s",
+        "power": "6400W",
+        "noise": "85db",
+        "algo": [
+            "SHA-256"
+        ],
+        "profitability": {
+            "display_value": "-$2,146.51/day",
+            "income": "$3.89",
+            "electricity": "-$2,150.40"
+        }
+    }
+]
